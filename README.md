@@ -1,1 +1,1 @@
-# checkmate_demo
+# CHECKMATE
